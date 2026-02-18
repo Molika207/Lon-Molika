@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Creative Portfolio",
+  "description": "A high-end, premium portfolio website for digital designers and developers, featuring project showcases, expertise domains, and an AI-powered project assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
